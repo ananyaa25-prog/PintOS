@@ -1,0 +1,3 @@
+perl -I../.. ../../tests/threads/priority-preempt.ck tests/threads/priority-preempt tests/threads/priority-preempt.result
+[32mpass tests/threads/priority-preempt
+[0m

@@ -1,0 +1,12 @@
+test,status
+priority-donate-chain,PASS
+priority-donate-one,PASS
+priority-donate-multiple,PASS
+priority-donate-nest,PASS
+priority-preempt,PASS
+priority-fifo,PASS
+priority-change,PASS
+priority-condvar,PASS
+alarm-single,PASS
+alarm-priority,PASS
+alarm-simultaneous,PASS

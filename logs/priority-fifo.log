@@ -1,0 +1,3 @@
+perl -I../.. ../../tests/threads/priority-fifo.ck tests/threads/priority-fifo tests/threads/priority-fifo.result
+[32mpass tests/threads/priority-fifo
+[0m

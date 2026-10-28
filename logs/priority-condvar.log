@@ -1,0 +1,3 @@
+perl -I../.. ../../tests/threads/priority-condvar.ck tests/threads/priority-condvar tests/threads/priority-condvar.result
+[32mpass tests/threads/priority-condvar
+[0m

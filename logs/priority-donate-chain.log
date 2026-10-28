@@ -1,0 +1,3 @@
+perl -I../.. ../../tests/threads/priority-donate-chain.ck tests/threads/priority-donate-chain tests/threads/priority-donate-chain.result
+[32mpass tests/threads/priority-donate-chain
+[0m

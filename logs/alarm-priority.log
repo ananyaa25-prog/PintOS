@@ -1,0 +1,3 @@
+perl -I../.. ../../tests/threads/alarm-priority.ck tests/threads/alarm-priority tests/threads/alarm-priority.result
+[32mpass tests/threads/alarm-priority
+[0m
